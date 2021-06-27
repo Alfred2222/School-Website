@@ -1,0 +1,17 @@
+.menu{
+    margin-top:0px;
+   position: fixed;
+    top:0px;
+    width:100%;
+    background :black;
+    z-index: 10;}
+
+.list{
+    display: inline;
+    padding-left: 50px;
+    padding-right: 30px;
+   color: aliceblue; 
+}
+marquee{
+    background-color: black
+}
