@@ -38,13 +38,35 @@ body {
 
 #contact{
     text-align: left;
+    
 }
 
 .contact_1{
     text-align: right;
 }
 
-#imgp{
-    margin-left: 800px;
-   top: 1000px;
+
+
+#contact iframe{
+    width:50%;
+    float: left;
+    padding-top:5px; 
+}
+
+.campus {
+    text-align:left;
+}
+
+.travel-maindiv{
+    float:left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+
+
+
+.row::after{
+    clear: both;
+    display: table;
 }
